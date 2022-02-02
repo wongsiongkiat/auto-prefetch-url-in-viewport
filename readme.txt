@@ -1,5 +1,5 @@
 === Auto Prefetch URL in Viewport ===
-Contributors: Wong Siong Kiat
+Contributors: wongsiongkiat
 Tags: prefetch, links, URLs, viewport, auto prefetch, auto prefetch links
 Requires at least: 4.9
 Tested up to: 5.9
