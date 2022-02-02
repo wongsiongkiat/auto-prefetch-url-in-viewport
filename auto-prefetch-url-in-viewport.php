@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Auto Prefetch URL in Viewport
-Plugin URI:  https://wordpress.org/plugins/auto-prefetch-url-in-viewport/
+Plugin URI: https://wordpress.org/plugins/auto-prefetch-url-in-viewport/
 Description: Auto Prefetch URL in Viewport is an ultra-lightweight javascript plugin (<1 KB) that will automatically prefetch all links(URLs) in the viewport and make your website page load faster like a rocket.
-Version:     1.0
-Author:      Wong Siong Kiat
-Author URI:  https://github.com/wongsiongkiat/auto-prefetch-url-in-viewport/
-License:     GPLv2 or later
+Version: 1.0
+Author: Wong Siong Kiat
+Author URI: https://github.com/wongsiongkiat/auto-prefetch-url-in-viewport
+License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 Text Domain: auto-prefetch-url-in-viewport
 Requires at least: 4.9
